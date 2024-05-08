@@ -1,0 +1,6 @@
+API url ma keyword search karva
+    &q= : keyword like cricket
+
+&& : be statement ni vacche lakhvama aave that check if first condition is true then show/go for seconde statement.
+
+style={{zIndex:'1'}} :(css) image/logo/badge uper image hoy to nicheni image ne uper batavva mate
